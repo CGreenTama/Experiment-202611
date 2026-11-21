@@ -6,5 +6,8 @@ On the Annotation the concept labels, each steps are listed below. Here is the w
    2. Guideline presence or absence: S/G
    3. Reasoning effort: Low/High
    4. Runtime: 10 times for each conditions.
+2. In each trials, each columns in the CSV result files are noted as below.
+   gpt-5.6_{Model}_{Reasoning}_{Guideline P/A}_run{time}
+   Ex. gpt-5.6_terra_low_S_run1
 
 
